@@ -1,0 +1,23 @@
+# ninja log v6
+3	55	7681758938838251	CMakeFiles/SpaceXplorer.dir/main.c.obj	26604f0f970cc918
+24	290	7681759427158189	build.ninja	ba1a7ee69bd507b4
+223	304	7681759279949879	SpaceXplorer.exe	180cb75188a3138e
+24	147	7681759277964728	CMakeFiles/SpaceXplorer.dir/collision.c.obj	da7b9ea7db3f09d2
+28	148	7681759278000132	CMakeFiles/SpaceXplorer.dir/difficulty.c.obj	1fa78833057a48cd
+40	161	7681759278124088	CMakeFiles/SpaceXplorer.dir/intgrid.c.obj	a2de93f6790f8b28
+44	170	7681759278168210	CMakeFiles/SpaceXplorer.dir/intro.c.obj	5dad7cca6fec97c0
+53	172	7681759278251703	CMakeFiles/SpaceXplorer.dir/gameend.c.obj	d82e131414e56cf1
+96	219	7681759278692712	CMakeFiles/SpaceXplorer.dir/stats.c.obj	c859334375c095b3
+48	173	7681759278203653	CMakeFiles/SpaceXplorer.dir/leaderboard.c.obj	b5155d28410b9d78
+32	178	7681759278049058	CMakeFiles/SpaceXplorer.dir/global.c.obj	3b9617bd272f59ab
+35	180	7681759278081240	CMakeFiles/SpaceXplorer.dir/initobjects.c.obj	eefbeacb67953732
+58	202	7681759278310892	CMakeFiles/SpaceXplorer.dir/moveasteroid.c.obj	6e81b711a308e9f8
+63	203	7681759278355199	CMakeFiles/SpaceXplorer.dir/playerchoice.c.obj	ddcf4aee9dca1a3f
+68	208	7681759278412351	CMakeFiles/SpaceXplorer.dir/playername.c.obj	635f7bd951c0e351
+74	209	7681759278467540	CMakeFiles/SpaceXplorer.dir/printgrid.c.obj	3516b1f5b895fc91
+79	211	7681759278524274	CMakeFiles/SpaceXplorer.dir/spawnasteroid.c.obj	3983b33950154c56
+85	219	7681759278575323	CMakeFiles/SpaceXplorer.dir/spawnobj.c.obj	4aca9e5d05c885
+104	222	7681759278766348	CMakeFiles/SpaceXplorer.dir/turncounter.c.obj	6c3b61d05c533f44
+90	223	7681759278622720	CMakeFiles/SpaceXplorer.dir/spawnplayer.c.obj	196ed32e93263458
+15	78	7681759712904101	CMakeFiles/SpaceXplorer.dir/main.c.obj	26604f0f970cc918
+79	159	7681759713544235	SpaceXplorer.exe	180cb75188a3138e

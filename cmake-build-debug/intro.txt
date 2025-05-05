@@ -1,0 +1,9 @@
+Welcome to SpaceXplorer!
+In this game, the goal is to destroy aliens to score points
+To destroy aliens (@) you need to drive in to them
+But be warned! Bumping in to aliens will damage your ship!
+And driving around in space consumes fuel!
+However, there is no need to worry!
+Collect space junk (*) and convert it to fuel or repair your ship
+Beware of the asteroids (A) traveling across space, they will result in instant death!
+To complete this quest, the player will need to survive 100 turns and his score will be logged on the leader board.

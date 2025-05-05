@@ -1,0 +1,7 @@
+Name                 Score      Difficulty
+Elijah               149        1
+Eli                  959        1
+Elijah               858        1         
+ELI                  1455       0
+Elijah               1275       0         
+Eli                  846        1         
